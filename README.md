@@ -8,7 +8,13 @@
 
 ## Batch 1 - 22CYS: Oct 1st and 3rd, 2022
 
+### Topics 
+- Introduction and Gratitude
+- Harmony with Individual
+- Harmony with Family
+- Harmony with Society and Nature
+
+
 <p align="center">
-  <img src="Assets/B1_22CYS_D1.png" width="600"> <br>
-  <img src="Assets/B1_22CYS_D2.png" width="600">
+  <img src="Assets/B1_22CYS_D1.jpeg" width="400">   <img src="Assets/B1_22CYS_D2.jpeg" width="400">
 </p>
